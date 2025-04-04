@@ -35,4 +35,7 @@ notepad mina-anteckningar & = använd & efter om du vill kunna använda terminal
 
 echo "Nissesfil" > nissesfil.txt = skriv in text i fil
 
-ls -l = 
+cd OneDrive/Skrivbord/namnet-på-mappen-du-vill-gå-till = Gå till mapp på skrivbordet
+
+diff = används för att jämföra filer rad för rad
+ 
